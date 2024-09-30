@@ -1,6 +1,6 @@
 <!-- [![](https://visitcount.itsvg.in/api?id=amanchandra100&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in) -->
 
-Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhinav Patel
+Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vivek Singh
 =====================================================================================================================================
 
 Web Developer And Designer
@@ -8,9 +8,9 @@ Web Developer And Designer
 
 I have been learning coding form 1st year of B Tech. Now I am learning Full Stack Web Development.
 
-* 🌍  I'm based in Gola Gokarannath,UP,India
-* 🖥  See my portfolio at [My Portfolio](https://abhinavpatel072.github.io/Portfolio/)  which is made with HTML CSS JS.
-* ✉  You can contact me at [abhinavpatel072@gmail.com](mailto:abhinavpatel072@gmail.com)
+* 🌍  I'm based in Varanasi,UP,India
+* 🖥  See my portfolio at [My Portfolio] which is made with HTML CSS JS.
+* ✉  You can contact me at [viveksingh0102vs@gmail.com](mailto:viveksingh0102vs@gmail.com)
 * 🧠  Currently i learning Machine Learning technology.
 * 🤝  I'm open to collaborating on Web Development and Designing
 
