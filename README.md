@@ -46,7 +46,7 @@ src="https://img.shields.io/twitter/follow/abhinavpatel072?logo=twitter&style=fo
 
 ## 📊 GitHub Stats:
 
-![Graph_2](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinavpatel072&theme=github_dark)
-![Graph_1](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinavpatel072&theme=github_dark)
-![Graph_3](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavpatel072&theme=github_dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinavpatel072&theme=github-dark&hide_border=false&border=30363D&stroke=30363D)
+![Graph_2](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajputvivek01&theme=github_dark)
+![Graph_1](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajputvivek01&theme=github_dark)
+![Graph_3](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajputvivek01&theme=github_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajputvivek01&theme=github-dark&hide_border=false&border=30363D&stroke=30363D)
