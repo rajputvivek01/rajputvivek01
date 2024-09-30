@@ -14,7 +14,7 @@ I have been learning coding form 1st year of B Tech. Now I am learning Full Stac
 * 🧠  Currently i learning Machine Learning technology.
 * 🤝  I'm open to collaborating on Web Development and Designing
 
-<a href="https://www.github.com/abhinavpatel072" target="_blank" rel="noreferrer"><img
+<a href="https://github.com/rajputvivek01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/abhinavpatel072?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://www.twitter.com/abhinavpatel072" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/abhinavpatel072?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
